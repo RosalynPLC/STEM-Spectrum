@@ -16,13 +16,10 @@ You are **not** granted any rights to:
 ## 3. Ownership
 All rights, titles, and interests in this repository, including but not limited to all intellectual property rights, remain the exclusive property of the owner.
 
-## 4. Legal Enforcement
-Any unauthorized use, reproduction, or distribution of the contents of this repository will result in legal action.
-
-## 5. Disclaimer of Warranty
+## 4. Disclaimer of Warranty
 This repository and its contents are provided "as is" without warranty of any kind. The owner makes no guarantees, expressed or implied, regarding the use or the results of the use of this repository.
 
-## 6. Limitation of Liability
+## 5. Limitation of Liability
 In no event shall the owner be liable for any damages (including, without limitation, incidental and consequential damages) arising from the use or inability to use this repository.
 
 ---
